@@ -1,5 +1,4 @@
 # Your settings and signing key stay on your machine
-config.properties
 *.keystore
 *.idsig
 
